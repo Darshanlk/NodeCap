@@ -1,0 +1,5 @@
+{
+    "name":"NodeTest",
+    "packages":["express","yargs","bcrypt"],
+    "dirArr":["config", "helpers", "routes","db","middleware"]
+}
